@@ -1,4 +1,4 @@
-from site import db, login_manager
+from website import db, login_manager
 from flask_login import UserMixin
 
 # required by the login manager
